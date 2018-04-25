@@ -1,0 +1,181 @@
+25-Apr-2018 20:36:18.932 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.29
+25-Apr-2018 20:36:18.943 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2018 13:11:12 UTC
+25-Apr-2018 20:36:18.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.29.0
+25-Apr-2018 20:36:18.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+25-Apr-2018 20:36:18.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+25-Apr-2018 20:36:18.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+25-Apr-2018 20:36:18.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_144\jre
+25-Apr-2018 20:36:18.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+25-Apr-2018 20:36:18.944 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+25-Apr-2018 20:36:18.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29
+25-Apr-2018 20:36:18.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29
+25-Apr-2018 20:36:18.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\conf\logging.properties
+25-Apr-2018 20:36:18.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+25-Apr-2018 20:36:18.946 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+25-Apr-2018 20:36:18.946 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+25-Apr-2018 20:36:18.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+25-Apr-2018 20:36:18.947 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29
+25-Apr-2018 20:36:18.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29
+25-Apr-2018 20:36:18.948 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\temp
+25-Apr-2018 20:36:18.949 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+25-Apr-2018 20:36:18.949 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+25-Apr-2018 20:36:18.950 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+25-Apr-2018 20:36:19.630 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+25-Apr-2018 20:36:20.297 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-80"]
+25-Apr-2018 20:36:20.693 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Apr-2018 20:36:20.729 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+25-Apr-2018 20:36:20.731 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Apr-2018 20:36:20.732 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2770 ms
+25-Apr-2018 20:36:20.811 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+25-Apr-2018 20:36:20.811 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.29
+25-Apr-2018 20:36:20.836 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\docs]
+25-Apr-2018 20:36:21.413 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\docs] has finished in [576] ms
+25-Apr-2018 20:36:21.413 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\examples]
+25-Apr-2018 20:36:21.817 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\examples] has finished in [404] ms
+25-Apr-2018 20:36:21.817 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\host-manager]
+25-Apr-2018 20:36:21.851 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\host-manager] has finished in [34] ms
+25-Apr-2018 20:36:21.851 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\manager]
+25-Apr-2018 20:36:21.904 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\manager] has finished in [53] ms
+25-Apr-2018 20:36:21.904 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\ROOT]
+25-Apr-2018 20:36:21.942 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\ROOT] has finished in [38] ms
+25-Apr-2018 20:36:21.948 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-80"]
+25-Apr-2018 20:36:21.973 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+25-Apr-2018 20:36:21.979 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1246 ms
+25-Apr-2018 20:38:47.016 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.29
+25-Apr-2018 20:38:47.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 5 2018 13:11:12 UTC
+25-Apr-2018 20:38:47.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.29.0
+25-Apr-2018 20:38:47.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+25-Apr-2018 20:38:47.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+25-Apr-2018 20:38:47.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+25-Apr-2018 20:38:47.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_144\jre
+25-Apr-2018 20:38:47.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+25-Apr-2018 20:38:47.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+25-Apr-2018 20:38:47.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29
+25-Apr-2018 20:38:47.035 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29
+25-Apr-2018 20:38:47.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\conf\logging.properties
+25-Apr-2018 20:38:47.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+25-Apr-2018 20:38:47.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-KKHKH84
+25-Apr-2018 20:38:47.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+25-Apr-2018 20:38:47.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+25-Apr-2018 20:38:47.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+25-Apr-2018 20:38:47.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29
+25-Apr-2018 20:38:47.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29
+25-Apr-2018 20:38:47.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\temp
+25-Apr-2018 20:38:47.036 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+25-Apr-2018 20:38:47.036 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+25-Apr-2018 20:38:47.036 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+25-Apr-2018 20:38:47.760 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+25-Apr-2018 20:38:48.700 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-80"]
+25-Apr-2018 20:38:49.205 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Apr-2018 20:38:49.418 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+25-Apr-2018 20:38:49.420 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+25-Apr-2018 20:38:49.421 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 5220 ms
+25-Apr-2018 20:38:49.635 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+25-Apr-2018 20:38:49.635 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.29
+25-Apr-2018 20:38:49.721 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\docs]
+25-Apr-2018 20:38:50.685 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\docs] has finished in [952] ms
+25-Apr-2018 20:38:50.685 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\examples]
+25-Apr-2018 20:38:52.947 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\examples] has finished in [2,262] ms
+25-Apr-2018 20:38:52.948 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\host-manager]
+25-Apr-2018 20:38:52.997 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\host-manager] has finished in [49] ms
+25-Apr-2018 20:38:52.997 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\manager]
+25-Apr-2018 20:38:53.155 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\manager] has finished in [158] ms
+25-Apr-2018 20:38:53.155 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\ROOT]
+25-Apr-2018 20:38:53.231 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\webapps\ROOT] has finished in [76] ms
+25-Apr-2018 20:38:53.236 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-80"]
+25-Apr-2018 20:38:53.248 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+25-Apr-2018 20:38:53.255 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 3834 ms
+25-Apr-2018 20:38:58.315 INFO [http-nio-80-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\conf\Catalina\localhost\hello.xml]
+25-Apr-2018 20:38:58.398 INFO [http-nio-80-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\Rio.Rai\Desktop\hello\apache-tomcat-8.5.29\conf\Catalina\localhost\hello.xml] has finished in [83] ms
+25-Apr-2018 20:38:58.403 INFO [http-nio-80-exec-2] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/hello]] after start() had already been called. The second call will be ignored.
+25-Apr-2018 20:42:14.999 INFO [http-nio-80-exec-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 20:42:15.099 INFO [http-nio-80-exec-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 20:42:19.746 INFO [http-nio-80-exec-10] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 20:42:19.783 INFO [http-nio-80-exec-10] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 20:42:23.332 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/hello]
+25-Apr-2018 20:42:23.332 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 20:42:23.398 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 20:50:42.348 INFO [http-nio-80-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 20:50:43.016 INFO [http-nio-80-exec-17] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 20:50:50.341 INFO [http-nio-80-exec-15] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 20:50:50.388 INFO [http-nio-80-exec-15] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 20:58:27.556 INFO [http-nio-80-exec-26] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 20:58:27.947 INFO [http-nio-80-exec-26] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 20:58:27.997 INFO [http-nio-80-exec-28] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 20:58:28.573 INFO [http-nio-80-exec-28] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:01:45.017 INFO [http-nio-80-exec-35] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:01:45.055 INFO [http-nio-80-exec-35] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:02:23.534 INFO [http-nio-80-exec-37] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:02:23.582 INFO [http-nio-80-exec-37] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:02:23.967 INFO [http-nio-80-exec-35] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:02:23.997 INFO [http-nio-80-exec-35] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:11:18.641 INFO [http-nio-80-exec-40] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:11:21.666 INFO [http-nio-80-exec-40] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:11:21.722 INFO [http-nio-80-exec-40] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:11:21.827 INFO [http-nio-80-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:11:22.250 INFO [http-nio-80-exec-42] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:11:22.276 INFO [http-nio-80-exec-42] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:19:45.322 INFO [http-nio-80-exec-51] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:19:45.888 INFO [http-nio-80-exec-51] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:19:45.894 INFO [http-nio-80-exec-51] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:25:20.856 INFO [http-nio-80-exec-61] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:25:22.159 INFO [http-nio-80-exec-61] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:25:22.162 INFO [http-nio-80-exec-61] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:25:26.671 INFO [http-nio-80-exec-63] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:25:26.850 INFO [http-nio-80-exec-63] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:25:26.852 INFO [http-nio-80-exec-63] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:26:51.561 INFO [http-nio-80-exec-64] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:26:51.720 INFO [http-nio-80-exec-64] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:26:51.722 INFO [http-nio-80-exec-64] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:26:53.409 INFO [http-nio-80-exec-65] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+ java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:426)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:687)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+25-Apr-2018 21:27:20.896 INFO [http-nio-80-exec-75] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:27:21.011 INFO [http-nio-80-exec-75] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:27:21.013 INFO [http-nio-80-exec-75] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:28:00.341 INFO [http-nio-80-exec-77] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:28:00.505 INFO [http-nio-80-exec-77] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:28:00.507 INFO [http-nio-80-exec-77] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:29:59.565 INFO [http-nio-80-exec-79] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:29:59.850 INFO [http-nio-80-exec-79] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:29:59.852 INFO [http-nio-80-exec-79] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:31:13.642 INFO [http-nio-80-exec-71] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:31:13.917 INFO [http-nio-80-exec-71] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:31:13.919 INFO [http-nio-80-exec-71] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:31:14.603 INFO [http-nio-80-exec-70] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:31:14.727 INFO [http-nio-80-exec-70] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:31:14.728 INFO [http-nio-80-exec-70] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:35:56.151 INFO [http-nio-80-exec-89] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:35:57.246 INFO [http-nio-80-exec-89] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:35:57.247 INFO [http-nio-80-exec-89] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:43:48.178 INFO [http-nio-80-exec-97] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:43:48.368 INFO [http-nio-80-exec-97] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:43:48.370 INFO [http-nio-80-exec-97] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:44:10.440 INFO [http-nio-80-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:44:10.682 INFO [http-nio-80-exec-105] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:44:10.684 INFO [http-nio-80-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:45:09.656 INFO [http-nio-80-exec-106] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:45:10.546 INFO [http-nio-80-exec-106] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:45:10.550 INFO [http-nio-80-exec-106] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:45:12.007 INFO [http-nio-80-exec-98] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] has started
+25-Apr-2018 21:45:12.336 INFO [http-nio-80-exec-98] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+25-Apr-2018 21:45:12.339 INFO [http-nio-80-exec-98] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/hello] is completed
+25-Apr-2018 21:47:30.909 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+25-Apr-2018 21:47:30.910 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-80"]
+25-Apr-2018 21:47:31.246 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+25-Apr-2018 21:47:31.427 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+25-Apr-2018 21:47:31.491 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-80"]
+25-Apr-2018 21:47:31.492 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+25-Apr-2018 21:47:31.493 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-80"]
+25-Apr-2018 21:47:31.495 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
